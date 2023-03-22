@@ -23,7 +23,7 @@ export default function NavigationBar() {
   return (
     <div className='h-[10%]  bg-darkgreen text-light flex items-center justify-center'>
         <div className="content w-[95%] h-full text-[110%]  flex items-center justify-between">
-         <div className="logo landscape:w-[5.5%]  portrait:w-[30%] flex items-center justify-center cursor-pointer  object-contain  aspect-[4/3]  "><Image alt='' src={logo}/></div>  
+         <div className="logo landscape:w-[5.5%]  portrait:w-[30%]  portrait:sm:w-[11%] flex items-center justify-center cursor-pointer  object-contain  aspect-[4/3]  "><Image alt='' src={logo}/></div>  
 
       
        <div className="menu  landscape:hidden  cursor-pointer flex items-center justify-end  "><Image  className='w-[12%] object-contain aspect-[4/3]' src={burgerMenu}  alt='' /></div>
