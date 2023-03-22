@@ -21,7 +21,7 @@ export default function WhyChooseUs() {
 <div className="writeup-div w-[40%]  portrait:w-[100%] bg-pink rounded p-[3%] portrait:p-[7%] border-2 border-darkgreen">
 <div className="writeup-header text-[170%] portrait:text-center portrait:text-[140%] mb-[4%]">We Speak for Businesses</div>
 
-<div className="writeup text-[130%]  portrait:text-center portrait:text-[110%] font-manuale">
+<div className="writeup text-[130%]  portrait:text-center portrait:text-[120%] font-manuale">
 Trustmonia is a review platform
 that’s open to everyone. Share
 your experiences to help others
@@ -48,7 +48,7 @@ their game.
 <div className="writeup-div w-[40%]  portrait:w-[100%] bg-blue rounded p-[3%] portrait:p-[7%] border-2 border-darkgreen">
 <div className="writeup-header text-[170%] portrait:text-center portrait:text-[140%] mb-[4%]">We Offer Service Review</div>
 
-<div className="writeup text-[130%]  portrait:text-center portrait:text-[110%] font-manuale">
+<div className="writeup text-[130%]  portrait:text-center portrait:text-[120%] font-manuale">
 Trustmonia is a review platform
 that’s open to everyone. Share
 your experiences to help others
@@ -80,7 +80,7 @@ their game.
 <div className="writeup-div w-[40%]  portrait:w-[100%] bg-green rounded p-[3%] portrait:p-[7%] border-2 border-darkgreen">
 <div className="writeup-header text-[170%] portrait:text-center portrait:text-[140%] mb-[4%]">We Offer Service Review</div>
 
-<div className="writeup text-[130%]  portrait:text-center portrait:text-[110%] font-manuale">
+<div className="writeup text-[130%]  portrait:text-center portrait:text-[120%] font-manuale">
 Trustmonia is a review platform
 that’s open to everyone. Share
 your experiences to help others
