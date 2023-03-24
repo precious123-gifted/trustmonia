@@ -1,20 +1,19 @@
 import React from 'react'
 import Image from 'next/image'
-import CustomerServiceSVG from '../../../public/assets/customerService.png'
+import interpretSVG from '../../../public/assets/interpretSVG.png'
 
-
-export default function CustomerService() {
+export default function InterpretCustomerSection() {
   return (
-    <div className='  landscape:h-[110vw] portrait:h-[390vw] portrait:sm:h-[165vw] w-[100vw] bg-pink text-darkgreen flex justify-center items-center '>
+    <div className='  landscape:h-[110vw] portrait:h-[390vw] portrait:sm:h-[165vw] w-[100vw] bg-blue text-darkgreen flex justify-center items-center '>
     <div className="content  w-[95%] h-[80%] flex-col items-center justify-center">
  
     <div className="header mb-[5%] w-full flex justify-center items-center   text-[2.5vw]  portrait:text-[7vw]  portrait:sm:text-[5vw]">
-<span className='text-center'>We Meet Customers Needs AND Wants</span>
+<span className='text-center'>We Help Interpret The Unspoken Desires OF Customers</span>
 </div>
 
 
 <div className="svg w-full mb-[5%]  portrait:mb-[20%] portrait:sm:mb-[13%]  flex justify-center items-center">
-<Image alt='' src={CustomerServiceSVG}  className=' w-[50vw]  portrait:w-[90vw]  portrait:sm:w-[70vw] object-contain aspect-[4/3]   ' />
+<Image alt='' src={interpretSVG}  className=' w-[50vw]  portrait:w-[90vw]  portrait:sm:w-[70vw] object-contain aspect-[4/3]   ' />
 
 </div>
 

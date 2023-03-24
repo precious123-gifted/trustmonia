@@ -4,6 +4,7 @@ import WhyChooseUs from './Components/WhyChooseUs'
 import AboutUsSection from './Components/AboutUsSection'
 import BusinessGrowthSection from './Components/BusinessGrowthSection'
 import CustomerService from './Components/CustomerService'
+import InterpretCustomerSection from './Components/InterpretCustomerSection'
 
 export default function HomePage() {
   return (
@@ -14,6 +15,7 @@ export default function HomePage() {
 <AboutUsSection/>
 <BusinessGrowthSection/>
 <CustomerService/>
+<InterpretCustomerSection/>
     </div>
   )
 }

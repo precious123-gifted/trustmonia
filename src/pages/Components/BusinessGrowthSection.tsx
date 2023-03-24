@@ -4,11 +4,11 @@ import businessSvg from '../../../public/assets/BusinessGrowth.png'
 
 export default function BusinessGrowthSection() {
   return (
-    <div className='  landscape:h-[110vw] portrait:h-[360vw] portrait:sm:h-[165vw] w-[100vw] bg-leafgreen text-darkgreen flex justify-center items-center '>
+    <div className='  landscape:h-[110vw] portrait:h-[368vw] portrait:sm:h-[165vw] w-[100vw] bg-leafgreen text-darkgreen flex justify-center items-center '>
       <div className="content  w-[95%] h-[80%] flex-col items-center justify-center">
    
       <div className="header mb-[5%] w-full flex justify-center items-center   text-[2.5vw]  portrait:text-[7vw]  portrait:sm:text-[5vw]">
-  <span>We Help Businesses Grow</span>
+  <span className='text-center'>We Help Businesses Grow</span>
 </div>
 
 
