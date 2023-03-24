@@ -5,6 +5,7 @@ import AboutUsSection from './Components/AboutUsSection'
 import BusinessGrowthSection from './Components/BusinessGrowthSection'
 import CustomerService from './Components/CustomerService'
 import InterpretCustomerSection from './Components/InterpretCustomerSection'
+import ReviewSection from './Components/ReviewSection'
 
 export default function HomePage() {
   return (
@@ -16,6 +17,7 @@ export default function HomePage() {
 <BusinessGrowthSection/>
 <CustomerService/>
 <InterpretCustomerSection/>
+<ReviewSection/>
     </div>
   )
 }
