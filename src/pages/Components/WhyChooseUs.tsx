@@ -6,7 +6,7 @@ import Image from 'next/image'
 
 export default function WhyChooseUs() {
   return (
-    <div className='w-[100vw] h-[160vw] portrait:h-[380vw] portrait:sm:h-[245vw] bg-grey flex item-center justify-center pt-[6vw]  portrait:pt-[30vw] portrait:sm:pt-[20vw] '>
+    <div className='w-[100vw] h-[160vw] portrait:h-[370vw] portrait:sm:h-[245vw] bg-grey flex item-center justify-center pt-[6vw]  portrait:pt-[30vw] portrait:sm:pt-[20vw] '>
       <div className="content flex-col justify-between align-center h-full w-[95%]  ">
 <div className="header text-[2.5vw]  portrait:text-[7vw]  portrait:sm:text-[5vw] text-center mb-[13%] portrait:mb-[30%]">WHY CHOOSE TRUSTMONIA</div>
 
