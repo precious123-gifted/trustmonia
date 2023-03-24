@@ -1,4 +1,7 @@
 /** @type {import('tailwindcss').Config} */
+
+
+
 module.exports = {
   content: [
     "./app/**/*.{js,ts,jsx,tsx}",
@@ -66,6 +69,14 @@ module.exports = {
     
 
     extend: {
+
+
+      backgroundImage: {
+        'wavy': "./public/assets/aboutBG.png",
+        
+      },
+
+
       aspectRatio: {
         '4/3': '4 / 3',
       },

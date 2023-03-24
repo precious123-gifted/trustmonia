@@ -6,7 +6,7 @@ import Image from 'next/image'
 
 export default function WhyChooseUs() {
   return (
-    <div className='w-[100vw] h-[200vw] portrait:h-[500vw] bg-grey flex item-center justify-center pt-[6vw]  portrait:pt-[30vw] portrait:sm:pt-[20vw] '>
+    <div className='w-[100vw] h-[160vw] portrait:h-[380vw] portrait:sm:h-[245vw] bg-grey flex item-center justify-center pt-[6vw]  portrait:pt-[30vw] portrait:sm:pt-[20vw] '>
       <div className="content flex-col justify-between align-center h-full w-[95%]  ">
 <div className="header text-[2.5vw]  portrait:text-[7vw]  portrait:sm:text-[5vw] text-center mb-[13%] portrait:mb-[30%]">WHY CHOOSE TRUSTMONIA</div>
 
@@ -73,7 +73,7 @@ their game.
 
 
 
-<div className="section3 flex items-center justify-between mb-[13%] portrait:mb-[25%]">
+<div className="section3 flex items-center justify-between ">
 
 <div className="svg  portrait:hidden ">
 <Image alt='' src={productSVG}  className='w-[45vw] object-contain aspect-[4/3]  landscape:object-left ' />
