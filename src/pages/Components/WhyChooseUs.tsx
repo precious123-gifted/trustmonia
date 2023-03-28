@@ -80,7 +80,7 @@ their game.
 </div>
 
 <div className="writeup-div w-[40%]  portrait:w-[100%] bg-green rounded p-[3%] portrait:p-[7%] border-2 border-darkgreen">
-<div className="writeup-header text-[170%] portrait:text-center portrait:text-[140%] mb-[4%]">We Offer Service Review</div>
+<div className="writeup-header text-[170%] portrait:text-center portrait:text-[140%] mb-[4%]">We Offer Product Review</div>
 
 <div className="writeup text-[1.5vw]  portrait:text-[5vw]  portrait:sm:text-[3vw]  portrait:text-center font-manuale">
 Trustmonia is a review platform

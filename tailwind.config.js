@@ -17,6 +17,14 @@ module.exports = {
   ],
   theme: {
 
+    extend: {
+
+
+      aspectRatio: {
+        '4/3': '4 / 3',
+      },
+
+    },
     fontFamily: {
       'loma': ['Loma', ],
       'manuale': ['Manuale', ],
@@ -72,20 +80,6 @@ module.exports = {
     },
     
 
-    extend: {
-
-
-      backgroundImage: {
-        'wavy': "./public/assets/aboutBG.png",
-        
-      },
-
-
-      aspectRatio: {
-        '4/3': '4 / 3',
-      },
-
-    },
   },
   plugins: [
     require('tailwind-scrollbar-hide')

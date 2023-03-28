@@ -1,13 +1,23 @@
 import React from 'react'
+import Image from 'next/image'
+import wave from '../../../public/assets/aboutBG.png'
+import wavem from '../../../public/assets/aboutBGm.png'
 
 
 
 
 export default function AboutUsSection() {
   return (
-    <div className='  landscape:h-[60vw] portrait:h-[272vw] portrait:sm:h-[90vw] w-[100vw] bg-darkgreen text-grey flex justify-center items-center ' >
+
+    
+    <div className='relative bg-grey  landscape:h-[60vw] portrait:h-[272vw] portrait:sm:h-[90vw] w-[100vw]  text-grey flex justify-center items-center ' >
+  <div className="background absolute  inset-0">
+    <Image className='portrait:hidden' src={wave} alt='' fill /> 
+    <Image className='landscape:hidden' src={wavem} alt='' fill />
+  </div>
   
-      <div className="content w-[95%] h-[80%] flex-col items-center justify-center ">
+
+      <div className="relative z-10 content w-[95%] h-[80%] flex-col items-center justify-center ">
 
 <div className="header mb-[5%] w-full flex justify-center items-center   text-[2.5vw]  portrait:text-[7vw]  portrait:sm:text-[5vw]">
   <span>About Trustmonia</span>
