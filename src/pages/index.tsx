@@ -20,6 +20,7 @@ export default function Home() {
       <main className='h-screen w-screen bg-grey'>
         <NavigationBar/>
 <HomePage/>
+
       </main>
     </>
   )

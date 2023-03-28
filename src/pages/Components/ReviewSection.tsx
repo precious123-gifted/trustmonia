@@ -8,7 +8,7 @@ import stars from '../../../public/assets/stars.png'
 
 export default function ReviewSection() {
   return (
-    <div className='landscape:h-[40vw] portrait:h-[220vw] portrait:sm:h-[140vw] w-[100vw] bg-grey text-darkgreen flex justify-center items-center'>
+    <div className='landscape:h-[40vw] portrait:h-[115vw] portrait:sm:h-[70vw] w-[100vw] bg-grey text-darkgreen flex justify-center items-center'>
       <div className="content  w-[90%] portrait:w-[100%] portrait:sm:w-[70%] h-[80%] flex-col items-center justify-center">
 
       <div className="header mb-[5%]  portrait:sm:mb-[8%] w-full flex justify-center items-center   text-[2.5vw]  portrait:text-[7vw]  portrait:sm:text-[5vw]">
@@ -16,7 +16,7 @@ export default function ReviewSection() {
 </div>
 
 
-<div className="cards-container text-[1.5vw]  portrait:text-[5vw]  portrait:sm:text-[3vw] font-manuale overflow-x-hidden w-full h-[70%] portrait:h-[50%]  portrait:sm:h-[45%] portrait:w-[100%]  flex justify-center portrait:justify-center items-center">
+<div className="cards-container text-[1.5vw]  portrait:text-[5vw]  portrait:sm:text-[3vw] font-manuale overflow-x-hidden w-full h-[70%] portrait:h-[80%]  portrait:sm:h-[75%] portrait:w-[100%]  flex justify-center portrait:justify-center items-center">
 
     { <div className="left-arrow landscape:hidden"><Image  className=' cursor-pointer   portrait:w-[9vw]  portrait:sm:w-[6vw] object-contain aspect-[4/3]' src={leftArrow}  alt='' /></div>
  }
