@@ -20,7 +20,7 @@ export default function CustomerService() {
 
 <div className="summary w-full  flex justify-center items-center  text-[2vw]  portrait:text-[6vw]  portrait:sm:text-[3vw]">
 
-<span className='w-[70%]  portrait:w-full   portrait:sm:w-full  text-center flex-col'>
+<span className=' font-thin w-[70%]  portrait:w-full   portrait:sm:w-full  text-center flex-col'>
 
   <div className='mb-[10%] h-[10%]'> 
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus labore repellendus 

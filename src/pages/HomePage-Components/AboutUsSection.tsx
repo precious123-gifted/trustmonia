@@ -24,7 +24,7 @@ export default function AboutUsSection() {
 </div>
 
 
-<div className="summary w-full  flex justify-center items-center  text-[2vw]  portrait:text-[6vw]  portrait:sm:text-[3vw]">
+<div className="summary w-full font-thin flex justify-center items-center  text-[2vw]  portrait:text-[6vw]  portrait:sm:text-[3vw]">
 
   <span className='w-[70%]  portrait:w-full   portrait:sm:w-full  text-center flex-col'>
 

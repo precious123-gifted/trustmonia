@@ -25,7 +25,7 @@ export default function ReviewSection() {
     <div className="card  portrait:mr-[5vw] portrait:sm:mr[2vw] h-[90%] w-[30%] portrait:h-[80%] portrait:sm:h-[100%] portrait:min-w-[85vw] portrait:sm:min-w-[101%]  bg-blue grid place-items-center">
 
 <div className="section1 h-[40%]  w-[90%]   "><Image alt='' src={stars}/></div>
-<div className="section2 h-[100%] w-[90%]  text-center ">They have one of the best customer
+<div className="section2 font-light h-[100%] w-[90%]  text-center ">They have one of the best customer
 services ,i love their products,it is worth
 my money</div>
 <div className="section3 h-[20%] w-[90%]   font-loma text-center">Prodigital Company</div>
@@ -36,7 +36,7 @@ my money</div>
     <div className="card  portrait:mr-[5vw] portrait:sm:mr[2vw]  h-[90%] w-[30%]   portrait:h-[80%] portrait:sm:h-[100%] portrait:min-w-[85vw] portrait:sm:min-w-[101%]  bg-blue grid place-items-center">
 
     <div className="section1 h-[40%]  w-[90%]   "><Image alt='' src={stars}/></div>
-<div className="section2 h-[100%] w-[90%]  ">They have one of the best customer
+<div className="section2 font-light h-[100%] w-[90%]  ">They have one of the best customer
 services ,i love their products,it is worth</div>
 <div className="section3 h-[20%] w-[90%]  text-center ">Prodigital Company</div>
 
@@ -45,7 +45,7 @@ services ,i love their products,it is worth</div>
 <div className="card h-[90%] w-[30%]  portrait:h-[80%] portrait:sm:h-[100%] portrait:min-w-[85vw] portrait:sm:min-w-[101%]  bg-blue grid place-items-center">
 
 <div className="section1 h-[40%]  w-[90%]   "><Image alt='' src={stars}/></div>
-<div className="section2 h-[100%] w-[90%]  ">They have one of the best customer
+<div className="section2 font-light h-[100%] w-[90%]  ">They have one of the best customer
 services ,i love their products,it is worth</div>
 <div className="section3 h-[20%] w-[90%]   text-center">Prodigital Company</div>
     </div>
