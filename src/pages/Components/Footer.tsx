@@ -2,8 +2,11 @@ import React from 'react'
 
 export default function Footer() {
   return (
-    <div className='landscape:h-[18vw] portrait:h-[140vw] pt-[5%] w-[100vw] bg-blue  flex items-start justify-center'>
-      <div className="content w-[95%] h-full flex-col">
+    <div className='landscape:h-[18vw] portrait:h-[140vw] pt-[5%] w-[100vw] bg-blue  flex-col items-center justify-center'>
+
+<div className="container w-full flex justify-center items-center">
+
+<div className="content portrait:w-[95%] h-full flex-col">
      <div className="details w-full h-[90%] flex justify-between portrait:flex-col">
 <div className="section1 portrait:h-[40%]  w-[45%] portrait:sm:flex portrait:flex-col portrait:w-full flex justify-between">
   <div className="block1 w-[40%] portrait:w-full  ">
@@ -50,10 +53,15 @@ Ikeja, Lagos</div>
 
      </div>
 
-<div className="foot">
+
+      </div>
+
 
 </div>
-      </div>
+      
+      <div className="foot text-[1.2vw]  portrait:text-[4vw]  portrait:sm:text-[2.5vw]  text-grey  h-[15%] w-full  bg-lightgreen flex items-center justify-center ">
+      TRUSTMONIA ©2023
+</div>
     </div>
   )
 }
