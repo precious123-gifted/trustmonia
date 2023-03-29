@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function BusinessMarketingSection() {
   return (
-    <div className='bg-pink text-center landscape:h-[55vw] portrait:h-[250vw] portrait:pt-[6%]   portrait:sm:h-[140vw] w-[100vw]  text-darkgreen flex justify-center items-center '  >
+    <div className='bg-pink text-center landscape:h-[55vw] portrait:h-[170vw] portrait:pt-[6%]   portrait:sm:h-[130vw] w-[100vw]  text-darkgreen flex justify-center items-center '  >
 
 
 
@@ -27,7 +27,7 @@ export default function BusinessMarketingSection() {
 </div>
 
 
-<div className="lists w-full  h-[30%] portrait:h-[27%] portrait:sm:h-[37%]  flex justify-center items-center  text-[2.1vw]  portrait:text-[5vw]  portrait:sm:text-[4vw]">
+<div className="lists w-full  h-[30%] portrait:h-[37%] portrait:sm:h-[37%]  flex justify-center items-center  text-[2.1vw]  portrait:text-[5vw]  portrait:sm:text-[4vw]">
 
   <ul className=' list-disc portrait:w-[90%]  portrait:sm:w-[70%] h-full w-[70%]  text-left   font-thin flex flex-col items-start justify-between'>
 <li>Reach 10x more potential customers</li>

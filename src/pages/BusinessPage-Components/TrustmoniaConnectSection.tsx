@@ -24,7 +24,7 @@ export default function TrustmoniaConnectSection() {
 
   <span className='w-[70%]  portrait:w-full   portrait:sm:w-full  text-center flex-col'>
 
-    <div className='mb-[10%] h-[10%]'> 
+    <div className='mb-[10%] h-[10%] font-light'> 
     Trustmonia Connect lets you post regular updates so you can help potential customers learn more about your business.
     </div>
 

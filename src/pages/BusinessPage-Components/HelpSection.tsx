@@ -14,7 +14,7 @@ export default function HelpSection() {
 
   <span className='w-[70%]  portrait:w-full   portrait:sm:w-full  text-center flex-col'>
 
-    <div className='mb-[10%] h-[10%]'> 
+    <div className='mb-[10%] h-[10%] font-light'> 
     Having a strong presence on Trustmonia helps you establish trust with potential customers. Manage your page for free or upgrade to stand out from the competition.
     </div>
 
