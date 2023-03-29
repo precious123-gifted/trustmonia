@@ -8,7 +8,7 @@ import step3svg from '../../../public/assets/businessstep3.png'
 
 export default function TrustmoniaConnectSection() {
   return (
-    <div className='bg-blue  text-center landscape:h-[70vw] portrait:h-[485vw] portrait:pt-[10%]   portrait:sm:h-[330vw] w-[100vw]  text-darkgreen flex justify-center items-center '>
+    <div className='bg-blue  text-center landscape:h-[70vw] portrait:h-[410vw] portrait:pt-[10%]   portrait:sm:h-[310vw] w-[100vw]  text-darkgreen flex justify-center items-center '>
       
       <div className="content w-[95%] h-[90%] portrait:h-[100%] flex-col items-center justify-center ">
       <div className="header mb-[2%] w-full flex justify-center items-center   text-[2.5vw]  portrait:text-[7vw]  portrait:sm:text-[5vw]">
@@ -36,7 +36,7 @@ export default function TrustmoniaConnectSection() {
   <span>Bring your business to life with These Easy Steps</span>
 </div>
 
-<div className="steps text-[1.6vw]  portrait:text-[5vw]  portrait:sm:text-[3.5vw]  w-full h-[45%] portrait:h-[60%] portrait:sm:h-[78%] flex landscape:justify-between  items-center  portrait:flex-col portrait:justify-between  ">
+<div className="steps text-[1.6vw]  portrait:text-[5vw]  portrait:sm:text-[3.5vw]  w-full h-[45%] portrait:h-[70%] portrait:sm:h-[78%] flex landscape:justify-between  items-center  portrait:flex-col portrait:justify-between  ">
 <div className="step1  h-full w-[30%] portrait:w-full portrait:h-[28%]   flex flex-col items-center">
 <div className="heading">1-Create a Post</div>
 <div className="svg">
