@@ -11,7 +11,7 @@ import NavigationBar from './HomePage-Components/NavigationBar'
 
 export default function HomePage() {
   return (
-    <div className='h-screen relative'>
+    <div className='relative'>
      <NavigationBar/>
 <Header/>
 <WhyChooseUs/>    

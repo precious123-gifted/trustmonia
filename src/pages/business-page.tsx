@@ -8,7 +8,7 @@ import Footer from './HomePage-Components/Footer'
 
 export default function BusinessPage() {
   return (
-    <div className='h-screen'>
+    <div className=''>
      <NavigationBar/>
      <Header/>
      <HelpSection/>
