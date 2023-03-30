@@ -38,7 +38,7 @@ my money</div>
     <div className="section1 h-[40%]  w-[90%]   "><Image alt='' src={stars}/></div>
 <div className="section2 font-light h-[100%] w-[90%]  ">They have one of the best customer
 services ,i love their products,it is worth</div>
-<div className="section3 h-[20%] w-[90%]  text-center ">Prodigital Company</div>
+<div className="section3 h-[20%] w-[90%]  text-center ">Prodigital  Company</div>
 
 </div>
 
