@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function BusinessMarketingSection() {
   return (
-    <div className='bg-pink text-center landscape:h-[55vw] portrait:h-[170vw] portrait:pt-[6%]   portrait:sm:h-[130vw] w-[100vw]  text-darkgreen flex justify-center items-center '  >
+    <div className='bg-gradient-to-b from-grey  to-pink text-center landscape:h-[55vw] portrait:h-[170vw] portrait:pt-[6%]   portrait:sm:h-[130vw] w-[100vw]  text-darkgreen flex justify-center items-center '  >
 
 
 
