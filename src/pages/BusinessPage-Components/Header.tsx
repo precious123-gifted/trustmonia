@@ -2,12 +2,13 @@ import React from 'react'
 import headerIMG from '../../../public/assets/businessheaderIMG.png'
 import Image from 'next/image'
 
+
 export default function Header() {
   return (
     <div className='landscape:h-[50vw]  w-[100vw] bg-grey flex items-start justify-center'>
 
         <div className="content  w-[95%] pt-[5%] h-full portrait:flex-col landscape:flex landscape:items-start landscape:justify-between">
-<div className="section1 portrait:mb-[10%] font-meduim font-loma landscape:w-[40%] landscape:flex-col landscape:justify-between">
+<div className="section1 portrait:mb-[10%] font-meduim font-M_PLUS_1 landscape:w-[40%] landscape:flex-col landscape:justify-between">
 <div className="headerTXT   portrait:text-[10vw] portrait:sm:text-[6vw] font-[510] text-darkgreen  landscape:text-[4vw] landscape:h-[70%]  landscape:mb-[9%]"><span>Unlock Your Free Business
 Page and Help People get
 to Know You </span> </div>

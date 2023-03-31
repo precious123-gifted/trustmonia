@@ -26,7 +26,7 @@ module.exports = {
 
     },
     fontFamily: {
-      'loma': ['Loma', ],
+      'mplus': ['M_PLUS_1', ],
       'manuale': ['Manuale', ],
       'jamrul': ['Jamrul', ],
       'sabon': ['Sabon', ],
