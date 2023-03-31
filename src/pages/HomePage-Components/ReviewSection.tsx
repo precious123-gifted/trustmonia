@@ -16,7 +16,7 @@ export default function ReviewSection() {
 </div>
 
 
-<div className="cards-container text-[1.5vw]  portrait:text-[5vw]  portrait:sm:text-[3vw] font-manuale overflow-x-hidden w-full h-[70%] portrait:h-[80%]  portrait:sm:h-[75%] portrait:w-[100%]  flex justify-center portrait:justify-center items-center">
+<div className="cards-container text-[1.5vw]  portrait:text-[5vw]  portrait:sm:text-[3vw] font-M_PLUS_1 overflow-x-hidden w-full h-[70%] portrait:h-[80%]  portrait:sm:h-[75%] portrait:w-[100%]  flex justify-center portrait:justify-center items-center">
 
     { <div className="left-arrow landscape:hidden"><Image  className=' cursor-pointer   portrait:w-[9vw]  portrait:sm:w-[6vw] object-contain aspect-[4/3]' src={leftArrow}  alt='' /></div>
  }
@@ -38,7 +38,7 @@ my money</div>
     <div className="section1 h-[40%]  w-[90%]   "><Image alt='' src={stars}/></div>
 <div className="section2 font-light h-[100%] w-[90%]  ">They have one of the best customer
 services ,i love their products,it is worth</div>
-<div className="section3 h-[20%] w-[90%]  text-center ">Prodigital  Company</div>
+<div className="section3 h-[20%] w-[90%]  text-center ">Lipwager  Company</div>
 
 </div>
 
@@ -47,7 +47,7 @@ services ,i love their products,it is worth</div>
 <div className="section1 h-[40%]  w-[90%]   "><Image alt='' src={stars}/></div>
 <div className="section2 font-light h-[100%] w-[90%]  ">They have one of the best customer
 services ,i love their products,it is worth</div>
-<div className="section3 h-[20%] w-[90%]   text-center">Prodigital Company</div>
+<div className="section3 h-[20%] w-[90%]   text-center">Centinel Company</div>
     </div>
 </div>
 
